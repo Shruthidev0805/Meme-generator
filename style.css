@@ -13,3 +13,20 @@ body{
     object-fit: cover;
 }
 
+.meme-generator .generate-meme-btn{
+    padding: 8px 20px;
+    border:none;
+    border-left: 4px solid #222;
+    border-right: 4px solid #222;
+    margin: 24px 0;
+    font-size: 20px;
+    color: #fd6569;
+    background: #fff;
+    cursor: pointer;
+}
+
+.meme-generator .generate-meme-btn:hover{
+    padding: 8px;
+
+}
+
