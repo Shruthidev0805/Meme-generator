@@ -1,0 +1,15 @@
+body{
+    background-color: #b38b6d;
+    color: black;
+}
+
+.meme-generator{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.meme-generator img{
+    height: 430px;
+    object-fit: cover;
+}
+
